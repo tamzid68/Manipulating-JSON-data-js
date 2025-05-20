@@ -1,5 +1,8 @@
 {
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "express-rate-limit": "^7.5.0",
+    "limit": "^0.0.1",
+    "rate": "^0.1.1"
   }
 }
